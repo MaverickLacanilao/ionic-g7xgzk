@@ -15,4 +15,8 @@ p {
 
 ion-item {
   background: transparent;
+
+div.box {
+  text-align: center;
+}
 }
