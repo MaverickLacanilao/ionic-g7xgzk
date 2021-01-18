@@ -1,5 +1,6 @@
 ion-content {
   background: linear-gradient(to bottom, rgb(40, 76, 207), rgb(79, 112, 231));
+  text-align: center;
 }
 
 h2 {
