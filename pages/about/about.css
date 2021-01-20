@@ -17,3 +17,7 @@ p {
 body { 
   text-align: center;
 }
+
+hr {
+  font-size: 10;
+}
